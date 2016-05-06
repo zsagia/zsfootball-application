@@ -1,0 +1,25 @@
+{
+  "name": "zsfootball-application",
+  "description": "My awesome Metal.js project",
+  "main": "lib/ZsFootballApp.js",
+  "authors": [
+    "Zsolt Szabo <zsolt.szabo@liferay.com>"
+  ],
+  "license": "BSD",
+  "keywords": [
+    "metal"
+  ],
+  "homepage": "https://github.com/zsagia/zsfootball-application",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "senna": "^1.0.4",
+    "zsfootball-round": "*"
+  }
+}
